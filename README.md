@@ -3,6 +3,8 @@
 A lightweight Windows desktop system monitor that plots **CPU**, **Memory**, and **Network**
 usage as a live line graph, with per-core CPU, memory pie, and disk space views.
 
+![Screenshot](screenshot.png)
+
 ## Download & run
 
 - Download `Monitor.exe` and run it — no installation required.
