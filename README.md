@@ -15,7 +15,7 @@ usage as a live line graph, with per-core CPU, memory pie, and disk space views.
 - Live CPU / Memory / Network graphs.
 - Per-core CPU bar chart, memory pie chart, and disk space table (Tools menu).
 - Colors, refresh rate, network bandwidth, and left-to-right options.
-- Settings persist to `%APPDATA%\Monitor\monitorinfo.json`.
+- Settings persist to `%APPDATA%\Monitor.Net\monitorinfo.json`.
 
 ## Version
 
